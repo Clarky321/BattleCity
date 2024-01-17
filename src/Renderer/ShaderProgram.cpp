@@ -91,5 +91,4 @@ namespace Renderer {
 		m_ID = shaderProgram.m_ID = 0;
 		shaderProgram.m_isCompiled = false;
 	}
-
 }
