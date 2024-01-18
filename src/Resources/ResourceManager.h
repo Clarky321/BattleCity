@@ -10,6 +10,7 @@ namespace Renderer
 }
 
 class ResourceManager {
+
 public:
     ResourceManager(const std::string& executablePath);
     ~ResourceManager() = default;
